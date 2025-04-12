@@ -47,7 +47,7 @@ A simple Java-based console application to manage student records using Object-O
    ```bash
    javac *.java
    
-Run the program:
+##Run the program:
 
-bash
+```bash
 java Main
